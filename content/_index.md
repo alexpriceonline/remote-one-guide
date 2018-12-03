@@ -1,12 +1,15 @@
 ---
 title: Introduction
 type: docs
-bookShowToC: false
 ---
 
 # Welcome to the RemoteOne Guide
 
-This website will soon document all aspects of the RemoteOne application.
-It is a work in progress so please report any errors to [team@remote.one](mailto:team@remote.one).
+RemoteOne is an online time tracking and invoicing tool built for remote freelancers.
 
-Also please let us know if you have any requests for documentation.
+This website will soon document all aspects of the RemoteOne application.
+
+## Feedback and requests
+
+This document is a work in progress so please report any errors or requests to
+[team@remote.one](mailto:team@remote.one).

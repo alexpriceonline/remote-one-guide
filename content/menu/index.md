@@ -4,4 +4,9 @@ headless: true
 
 - [**Introduction**]({{< ref "/" >}})
 - **Tutorials**
-  - [Invoice Payments]({{< ref "/docs/invoice-payments.md" >}})
+    - [Online Invoices]({{< ref "/docs/online-invoices.md" >}})
+    - [Invoice Payments]({{< ref "/docs/invoice-payments.md" >}})
+- **Documentation**
+    - [Supported Currencies]({{< ref "/docs/supported-currencies.md" >}})
+
+- [**Go to main site →**](https://remote.one)
